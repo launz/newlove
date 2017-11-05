@@ -1,7 +1,7 @@
 local anim8 = require 'anim8'
 require 'building'
 
-tileQuads = {} -- parts of the tileset used for different tiles
+tileQuads = {} 
 
 local time = 0
 
